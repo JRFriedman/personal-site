@@ -12,4 +12,4 @@ My project Atlas is intended to connect protocols, products, and professionals t
 
 I look forward to sharing more. 
 
-Thanks for reading. 
+Thanks very much for reading. 
