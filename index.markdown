@@ -2,15 +2,14 @@
 layout: home
 ---
 
+Hi there, welcome to my personal website. 
 
-My name is Jacob R Friedman
+I'm passionate about law, language and learning.
 
-My profile on Farcaster can be found <a href="https://warpcast.com/jrf">here</a>.
+If you want to find me online, I'm on <a href="https://warpcast.com/jrf">Farcaster</a>.  
 
-My podcast where I talk to founders can be found <a href="https://open.spotify.com/show/6yVJ26nZVVQicnsprzfYNo?si=lzD-rimgQreTVZ_a5n3RvQ">here</a>.
+You can also check out my founder interview series <a href="https://open.spotify.com/show/6yVJ26nZVVQicnsprzfYNo?si=lzD-rimgQreTVZ_a5n3RvQ">here</a>.
 
-My project Atlas is intended to connect protocols, products, and professionals to contributors, customers and clients.  
+I'm building <a href="https://warpcast.com/atlas">Atlas</a> to help people create value on the decentralized social graph. 
 
-I look forward to sharing more. 
-
-Thanks very much for reading.
+Thanks for reading.
