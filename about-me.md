@@ -1,7 +1,3 @@
-layout: page
-title: "About Me"
-permalink: /about-me
-
 My name is Jacob R Friedman
 
 My profile on Farcaster can be found <a href="https://warpcast.com/jrf">here</a>.
